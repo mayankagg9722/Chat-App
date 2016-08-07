@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "642411530349",
+    "firebase_url": "https://mydatabaseproject-6ca4b.firebaseio.com",
+    "project_id": "mydatabaseproject-6ca4b",
+    "storage_bucket": "mydatabaseproject-6ca4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642411530349:android:894c08db7a38ef08",
+        "android_client_info": {
+          "package_name": "com.example.mayank.firebasedatatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642411530349-ltrqeiq0g4klpv3o7gnoiherhis0mdc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6yyfI6j679DMVXi1-qGg2rEknh8cQJmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
